@@ -1,6 +1,6 @@
-# Guessing Game
+# Quiz Game
 
-Als längeres Hausübungsbeispiel habe ich mir überlegt einen **Guessing Game** zu coden. Die Grund-Funktionalität unterscheidet sich dabei nur gering anderen herkömmlichen Ratespielen (wie z.b. Kahoot).
+Als längeres Hausübungsbeispiel habe ich mir überlegt einen **Quiz Game** zu coden. Die Grund-Funktionalität unterscheidet sich dabei nur gering anderen herkömmlichen Fragespielen (wie z.b. Kahoot).
 
 Da es sich hier um eine **Serveranwendung** handelt, gibt es eventuell die Möglichkeit einer Multiplayer-Funktion.
 
